@@ -1,4 +1,4 @@
-# 👨‍💻 Professor-Jud1th | Security Engineering & Research
+# 👨‍💻 Bilbeau-Swagginz | Security Engineering & Research
 
 ### 🛡️ System
 ![CachyOS](https://img.shields.io/badge/OS-CachyOS-00ccff?style=for-the-badge&logo=linux&logoColor=white)
@@ -8,7 +8,6 @@
 ---
 
 ### 🚀 Current Projects
-- **[effective-c-labs](https://github.com/Professor-Jud1th/effective-c-labs):** Tracking my progress through Robert Seacord's *Effective C*.
 - **The Forge:** Optimizing my CachyOS development environment for system-level debugging.
 - **The Lab:** (In Progress) Building a Proxmox-based homelab for malware detonation and forensic research.
 
@@ -26,7 +25,6 @@
 **Endpoint & Incident Response**
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-5E33FF?style=for-the-badge&logo=sentinelone&logoColor=white)
 ![Defender](https://img.shields.io/badge/MDO%20%2F%20MDI-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/DFIR-Velociraptor-green?style=for-the-badge)
 ![Rapid7](https://img.shields.io/badge/Rapid7-B91D1D?style=for-the-badge&logo=rapid7&logoColor=white)
 
 **Identity & Cloud Security**
@@ -43,10 +41,8 @@
 
 ### 🎯 2026 Roadmap
 - [x] Environment Setup (CachyOS + SSH + Git)
-- [ ] CompTIA Security+ (Target: June)
-- [ ] CompTIA CySA+ (Target: October)
-- [ ] Complete *Effective C* Technical Labs
-
+- [ ] CompTIA Security+ (Target: Dec 2026)
+- [ ] CompTIA CySA+ (Target: Dec 2026)
 ---
 
 ### 🕹️ Off-Duty
@@ -57,12 +53,12 @@ When I'm not in the terminal, I'm likely:
 
 ---
 
-![Professor-Jud1th GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-Jud1th&show_icons=true&theme=tokyonight)
+![Professor-Jud1th GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilbeau-Swagginz&show_icons=true&theme=tokyonight)
 
-![Visitors](https://komarev.com/ghpvc/?username=Professor-Jud1th&color=blueviolet&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Bilbeau-Swagginz&color=blueviolet&style=flat-square)
 
 <!--
-**Professor-Jud1th/Professor-Jud1th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bilbeau-Swagginz/Bilbeau-Swagginz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
