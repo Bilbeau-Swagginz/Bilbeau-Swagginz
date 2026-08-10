@@ -53,7 +53,7 @@ When I'm not in the terminal, I'm likely:
 
 ---
 
-![Professor-Jud1th GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilbeau-Swagginz&show_icons=true&theme=tokyonight)
+![Bilbeau-Swagginz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilbeau-Swagginz&show_icons=true&theme=tokyonight)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Bilbeau-Swagginz&color=blueviolet&style=flat-square)
 
