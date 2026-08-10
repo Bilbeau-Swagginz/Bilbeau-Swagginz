@@ -1,61 +1,39 @@
-# 👨‍💻 Bilbeau-Swagginz | Security Engineering & Research
+# Hi, I'm <Bilbeau-Swagginz> 👋
 
-### 🛡️ System
-![CachyOS](https://img.shields.io/badge/OS-CachyOS-00ccff?style=for-the-badge&logo=linux&logoColor=white)
-![Kernel](https://img.shields.io/badge/Kernel-7.0-blueviolet?style=for-the-badge)
-![Shell](https://img.shields.io/badge/Shell-Fish-D2042D?style=for-the-badge&logo=fishshell&logoColor=white)
+Security Analyst transitioning into Malware Analysis & Vulnerability Research. 
+Focused on low-level system internals, reverse engineering x86/x64 malware, and malware discovery. 
 
 ---
 
-### 🚀 Current Projects
-- **The Forge:** Optimizing my CachyOS development environment for system-level debugging.
-- **The Lab:** (In Progress) Building a Proxmox-based homelab for malware detonation and forensic research.
+### 🔬 Current Focus
+- 🔍 **Reverse Engineering:** Dissecting PE32/PE32+ binaries and analyzing Windows kernel structures.
+- ⚙️ **Automation:** Developing Python scripts for automated string decryption and Ghidra headless analysis.
+- 🎯 **Vulnerability Research:** Learning vulnerability discovery, and C programming for analysis and exploits.
 
 ---
 
-### 📚 Tech Stack & Tools
+### 🛠️ Tech Stack & Tooling
 
-**Languages & Core Engineering**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash/Fish-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![GDB](https://img.shields.io/badge/Debugger-GDB-31323f?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Endpoint & Incident Response**
-![SentinelOne](https://img.shields.io/badge/SentinelOne-5E33FF?style=for-the-badge&logo=sentinelone&logoColor=white)
-![Defender](https://img.shields.io/badge/MDO%20%2F%20MDI-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Rapid7](https://img.shields.io/badge/Rapid7-B91D1D?style=for-the-badge&logo=rapid7&logoColor=white)
-
-**Identity & Cloud Security**
-![Entra](https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Silverfort](https://img.shields.io/badge/Silverfort-31323f?style=for-the-badge)
-![Purview](https://img.shields.io/badge/Purview-00a1f1?style=for-the-badge)
-
-**Network & Email Security**
-![Cisco](https://img.shields.io/badge/Cisco%20Umbrella-22333B?style=for-the-badge&logo=cisco&logoColor=white)
-![Mimecast](https://img.shields.io/badge/Mimecast-000000?style=for-the-badge&logo=mimecast&logoColor=white)
-![KnowBe4](https://img.shields.io/badge/KnowBe4-E11931?style=for-the-badge)
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Disassemblers & Debuggers** | Ghidra, x64dbg, Windbg |
+| **Languages** | C,Python, PowerShell |
+| **Analysis & Triage** | Wireshark, Volatility 3, YARA, Process Hacker, RegShot |
+| **Security Environments** | FLARE-VM, REMnux, Kali Linux |
 
 ---
 
-### 🎯 2026 Roadmap
-- [x] Environment Setup (CachyOS + SSH + Git)
-- [ ] CompTIA Security+ (Target: Dec 2026)
-- [ ] CompTIA CySA+ (Target: Dec 2026)
----
+### 📂 Featured Repositories
 
-### 🕹️ Off-Duty
-When I'm not in the terminal, I'm likely:
-- **Gaming:** Story-based action games, RPGs, indie titles. PS5/PC
-- **Reading:** Heavy focus on Sci-Fi and Fantasy genres.
-- **Culinary:** Exploring new cooking techniques and recipies.
+- 🛡️ **[Malware-Analysis-Lab](./malware-reports)** — Detailed technical write-ups, IOCs, and YARA rules from static/dynamic analysis.
+- ⚡ **[Exploit-Dev-PoCs](./exploit-pocs)** — Proofs-of-Concept for local stack/heap vulnerabilities and reverse-engineering write-ups.
+- 🐍 **[RE-Toolbox](./re-toolbox)** — Collection of utility scripts for deobfuscation, unpacking, and triage automation.
 
 ---
 
-![Bilbeau-Swagginz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilbeau-Swagginz&show_icons=true&theme=tokyonight)
+### 🌐 Connect & Research
+- **Discord** [[![Discord](https://shields.io)](https://discord.com/users/1519896158930210866)
 
-![Visitors](https://komarev.com/ghpvc/?username=Bilbeau-Swagginz&color=blueviolet&style=flat-square)
 
 <!--
 **Bilbeau-Swagginz/Bilbeau-Swagginz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
