@@ -1,4 +1,4 @@
-# Hi, I'm <Bilbeau-Swagginz> 👋
+# Hi, I'm Bilbeau-Swagginz 👋
 
 Security Analyst transitioning into Malware Analysis & Vulnerability Research. 
 Focused on low-level system internals, reverse engineering x86/x64 malware, and malware discovery. 
