@@ -32,7 +32,9 @@ Focused on low-level system internals, reverse engineering x86/x64 malware, and 
 ---
 
 ### 🌐 Connect & Research
-- **Discord** [[![Discord](https://shields.io)](https://discord.com/users/1519896158930210866)
+- **Discord** ![Discord](https://shields.io) bilbeau_swagginz
+- **Signal** ![Signal](https://shields.io) Bilbeau_Swagginz.09
+
 
 
 <!--
