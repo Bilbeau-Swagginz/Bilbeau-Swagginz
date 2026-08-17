@@ -5,33 +5,33 @@ Focused on low-level system internals, reverse engineering x86/x64 malware, and 
 
 ---
 
-### 🔬 Current Focus
-- 🔍 **Reverse Engineering:** Dissecting PE32/PE32+ binaries and analyzing Windows kernel structures.
-- ⚙️ **Automation:** Developing Python scripts for automated string decryption and Ghidra headless analysis.
-- 🎯 **Vulnerability Research:** Learning vulnerability discovery, and C programming for analysis and exploits.
+### Current Focus
+-  **Reverse Engineering:** Dissecting PE32/PE32+ binaries and analyzing Windows kernel structures.
+-  **Automation:** Developing Python scripts for automated string decryption and Ghidra headless analysis.
+-  **Vulnerability Research:** Learning vulnerability discovery, and C programming for analysis and exploits.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Disassemblers & Debuggers** | Ghidra, x64dbg, Windbg |
-| **Languages** | C,Python, PowerShell |
-| **Analysis & Triage** | Wireshark, Volatility 3, YARA, Process Hacker, RegShot |
+| **Languages** | C,Python,PowerShell |
+| **Analysis & Triage** | Wireshark,YARA |
 | **Security Environments** | FLARE-VM, REMnux, Kali Linux |
 
 ---
 
-### 📂 Featured Repositories
+### Featured Repositories
 
-- 🛡️ **[Malware-Analysis-Lab](./malware-reports)** — Detailed technical write-ups, IOCs, and YARA rules from static/dynamic analysis.
-- ⚡ **[Exploit-Dev-PoCs](./exploit-pocs)** — Proofs-of-Concept for local stack/heap vulnerabilities and reverse-engineering write-ups.
-- 🐍 **[RE-Toolbox](./re-toolbox)** — Collection of utility scripts for deobfuscation, unpacking, and triage automation.
+- **[Malware-Analysis-Lab](./malware-reports)** — Detailed technical write-ups, IOCs, and YARA rules from static/dynamic analysis.
+- **[Exploit-Dev-PoCs](./exploit-pocs)** — Proofs-of-Concept for local stack/heap vulnerabilities and reverse-engineering write-ups.
+- **[RE-Toolbox](./re-toolbox)** — Collection of utility scripts for deobfuscation, unpacking, and triage automation.
 
 ---
 
-### 🌐 Connect & Research
+### Connect & Research
 - **Discord** bilbeau_swagginz
 - **Signal** Bilbeau_Swagginz.09
 
