@@ -1,6 +1,6 @@
 # Hi, I'm Bilbeau-Swagginz 👋
 
-**Security analyst turned security software engineer (in progress).**
+**Security analyst working towards security software engineer (in progress).**
 I spend my days defending systems. I'm learning to build them, so I can make them harder to break.
 
 ---
