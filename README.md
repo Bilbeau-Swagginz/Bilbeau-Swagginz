@@ -54,7 +54,7 @@ I'm a strong believer in open source and I'm working up to my first contribution
 
 ## 📫 Let's connect
 
-- Discord: Bilbeau-Swagginz
+- Discord: Bilbeau_Swagginz
 - Open to conversations about AppSec, vulnerability research, Linux, and learning to code from a security background
 
 ---
